@@ -50,7 +50,7 @@ namespace Ticketing
         Discount = discount;
         AmountDue = amountDue;
     }
-
+        // ading some comments
      public void calculatePrice()
      {
 

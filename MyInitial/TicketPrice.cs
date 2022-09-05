@@ -5,6 +5,7 @@ using System.Text;
 
 namespace Ticketing
 {
+    //adding some commwent
     public class TicketPrice
     {
         private int section;
